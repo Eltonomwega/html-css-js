@@ -43,7 +43,8 @@
   <div class="footer">
 
   </div>
-
+  
+  </div>
 
   <script>
         //counting the responses
