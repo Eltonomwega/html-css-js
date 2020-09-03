@@ -1,11 +1,7 @@
-
-
   <div class="container">
     <div class="header">
-
     </div>
     <div class="content">
-
       <div class="form-container">
         <form class="">
           <div class="row">
@@ -21,7 +17,6 @@
           </div>
         </form>
       </div>
-
       <table class="table">
         <thead>
           <tr>
@@ -30,18 +25,12 @@
           </tr>
         </thead>
         <tbody id="tbody">
-          
-  
         </tbody>
       </table>
-
     </div>
-
-
   </div>
 
   <div class="footer">
-
   </div>
   
   </div>
@@ -91,4 +80,6 @@
 /*
 PLACE CHALLENGE CODE HERE THAT DEALS WITH DON MANIPULATION
 */
- 
+  </script>
+
+
